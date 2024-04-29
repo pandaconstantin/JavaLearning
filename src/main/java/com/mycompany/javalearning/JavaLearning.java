@@ -5,7 +5,7 @@
 package com.mycompany.javalearning;
 
 /**
- *
+ * Classe utilitaire.
  * @author constantindrabo
  */
 public class JavaLearning {
